@@ -9,9 +9,9 @@ This repository documents the process of creating a false-color Landsat image to
 ## Repository Structure
 ```
 C:.
-└───data
-    ├───Eaton_Perimeter_20250121
-    └───Palisades_Perimeter_20250121
+│   .gitignore
+│   hwk4-task2-false-color-MORENOROLON.ipynb
+│   README.md
 ```
 
 ## Data
