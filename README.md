@@ -1,4 +1,5 @@
 # Visualizing Wildfire Scars: False Color Analysis of the Eaton and Palisades Fires (2025)
+This project was completed as part of EDS 220: Working With Environmental Datasets in the Master of Environmental Data Science (MEDS) program at UC Santa Barbara.
 
 <img width="764" height="428" alt="image" src="https://github.com/user-attachments/assets/07e86dc8-1a5e-4ceb-8050-b0de84cb5402" />
 
