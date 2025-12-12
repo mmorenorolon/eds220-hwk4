@@ -43,7 +43,7 @@ eaton-palisades-eji-false-imagery
 The Environmental Justice Index (EJI), developed by the [Agency for Toxic Substances and Disease Registry (ATSDR)](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html), provides metrics to identify communities that may experience higher cumulative impacts from environmental burdens and social vulnerabilities. For this project, the 2024 California EJI dataset was downloaded and used to obtain census-tract–level indicators relevant to vulnerability assessments. This dataset is stored in the `data/EJI_2024_California_GDB/` directory and is loaded directly in the analysis notebooks. This analysis focuses on the variable `E_DISABL`, which represents the percentage of people with a disability in each census tract. This variable is used to highlight communities that may face additional challenges during wildfire events, such as evacuation, access to emergency services, and recovery support. By identifying which tracts intersect the Eaton and Palisades fire perimeters, the project situates burn-area mapping within the broader context of social vulnerability and community resilience.
  
 
-Date Accessed: 11/19/2025
+Date Accessed: 11/21/2025
 
 ### Fire Perimeter Data:
 
