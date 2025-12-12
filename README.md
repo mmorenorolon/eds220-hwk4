@@ -13,7 +13,8 @@ This project also incorporates an Environmental Justice (EJ) assessment using ex
 
 <details> 
     <summary><strong>Click to expand the repository tree</strong></summary>
-```
+
+```{python}
 eaton-palisades-eji-false-imagery
 │   .gitignore
 │   hwk4-task2-false-color-MORENOROLON.ipynb     # Landsat false-color processing workflow
