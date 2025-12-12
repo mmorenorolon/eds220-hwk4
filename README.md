@@ -10,9 +10,10 @@ This repository documents the workflow for creating a false-color Landsat image 
 This project also incorporates an Environmental Justice (EJ) assessment using existing EJ Index data. Specifically, we identify which census tracts intersect the Eaton and Palisades fire perimeters and examine the percentage of people with disabilities reported for each census tract. Together, this analysis contextualizes wildfire impacts alongside social vulnerability indicators to offer insights into which communities may have faced heightened risks during evacuation, emergency response, and recovery.
 
 ## Repository Structure
-```
-<details> <summary><strong>Click to expand the repository tree</strong></summary>
 
+<details> 
+    <summary><strong>Click to expand the repository tree</strong></summary>
+```
 eaton-palisades-eji-false-imagery
 │   .gitignore
 │   hwk4-task2-false-color-MORENOROLON.ipynb     # Landsat false-color processing workflow
@@ -30,9 +31,9 @@ eaton-palisades-eji-false-imagery
 │   │       └───EJI_2024_California.gdb
 │   │
 │   └───Palisades_Perimeter_20250121             # Palisades Fire CAL FIRE perimeter shapefile
-
-<details>
 ```
+</details>
+
 
 ## Data Sources
 
