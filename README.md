@@ -12,7 +12,6 @@ This project also incorporates an Environmental Justice (EJ) assessment using ex
 ## Repository Structure
 
 <details> <summary><strong>Click to expand the repository tree</strong></summary>
-```
 eaton-palisades-eji-false-imagery
 │   .gitignore
 │   hwk4-task2-false-color-MORENOROLON.ipynb     # Landsat false-color processing workflow
@@ -30,8 +29,6 @@ eaton-palisades-eji-false-imagery
 │   │       └───EJI_2024_California.gdb
 │   │
 │   └───Palisades_Perimeter_20250121             # Palisades Fire CAL FIRE perimeter shapefile
-
-```
 <details>
 
 ## Data Sources
