@@ -17,11 +17,9 @@ This project also incorporates an Environmental Justice (EJ) assessment using ex
 ```{python}
 eaton-palisades-eji-false-imagery
 │   .gitignore
-│   hwk4-task2-false-color-MORENOROLON.ipynb     # Landsat false-color processing workflow
-│   index.html                                   # HTML rendering of main notebook
-│   index.ipynb                                  # Main analysis notebook
+│   false-color.ipynb                            # Landsat false-color processing workflow
 │   README.md
-│   week8-social-dimensions-eaton-palisades.ipynb # EJ/disability intersection analysis
+│   social-dimensions-eaton-palisades.ipynb      # EJ/disability intersection analysis
 │
 ├───data
 │   │   landsat8-2025-02-23-palisades-eaton.nc   # Landsat 8 surface reflectance dataset
