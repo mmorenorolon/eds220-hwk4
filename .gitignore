@@ -1,6 +1,9 @@
 # Hide data directory
 data/*
 
+# Index jupyter file
+index.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
