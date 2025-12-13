@@ -35,6 +35,7 @@ eaton-palisades-eji-false-imagery
 ```
 </details>
 
+*Note: The `data/` directory is excluded from version control via `.gitignore`. This repository structure reflects the expected local directory structure used when running the notebooks.*
 
 ## Data Sources
 
